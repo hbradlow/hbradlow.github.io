@@ -1,0 +1,1 @@
+api.geonames.org/searchJSON?q=Bexar+County%2C+Texas&country=US&featureClass=A&continentCode=&username=hbradlow&maxRows=1&featureCode=ADM2
